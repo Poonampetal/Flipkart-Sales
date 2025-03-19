@@ -1,0 +1,108 @@
+Product_ID,Product_Name,Category,Stock_Quantity,Unit_Price
+P001,Wireless Mouse,Electronics,50,25
+P002,USB Keyboard,Electronics,30,15
+P003,Bluetooth Speaker,Electronics,20,10
+P004,Laptop Stand,Accessories,25,20
+P005,Monitor,Electronics,15,30
+P006,USB-C Charger,Electronics,45,18
+P007,HDMI Cable,Electronics,60,8
+P008,Gaming Mouse Pad,Accessories,30,12
+P009,Wireless Charger,Electronics,25,22
+P010,Portable Power Bank,Electronics,40,25
+P011,Noise-Canceling Headphones,Electronics,20,50
+P012,Smart LED Bulb,Home,35,15
+P013,Ergonomic Chair,Furniture,10,150
+P014,Desk Organizer Set,Accessories,50,12
+P015,Laptop Cooling Pad,Electronics,30,20
+P016,Wireless Earbuds,Electronics,25,35
+P017,Portable Bluetooth Keyboard,Electronics,15,30
+P018,External Hard Drive,Electronics,18,75
+P019,Adjustable Desk Lamp,Home,40,18
+P020,USB Flash Drive (32GB),Electronics,100,10
+P021,Wireless Presenter Remote,Electronics,25,20
+P022,Surge Protector Power Strip,Electronics,50,15
+P023,Adjustable Laptop Desk,Furniture,20,45
+P024,Desktop Monitor Stand,Accessories,30,25
+P025,Foldable Tablet Stand,Accessories,35,15
+P026,Cable Management Sleeve,Accessories,60,5
+P027,USB-C Hub,Electronics,40,20
+P028,Portable SSD (256GB),Electronics,15,90
+P029,Laptop Screen Protector,Accessories,50,10
+P030,Digital Alarm Clock,Home,40,18
+P031,Mini Projector,Electronics,10,100
+P032,Adjustable Footrest,Furniture,30,25
+P033,Document Scanner,Electronics,20,85
+P034,Bluetooth Mouse,Electronics,25,20
+P035,Laptop Backpack,Accessories,40,40
+P036,Noise-Isolating Headset,Electronics,30,35
+P037,Multi-Device Charger,Electronics,45,30
+P038,Portable Whiteboard,Office,20,50
+P039,Smart Plug,Home,35,12
+P040,Desk Drawer Organizer,Accessories,50,10
+P041,Multi-Outlet Wall Adapter,Electronics,60,8
+P042,WiFi Extender,Electronics,15,35
+P043,Standing Desk Converter,Furniture,10,120
+P044,Smart Thermostat,Home,10,100
+P045,Wireless Keyboard Combo,Electronics,25,45
+P046,Tabletop Air Purifier,Home,20,60
+P047,Vertical Mouse,Electronics,15,30
+P048,Dual Monitor Arm,Furniture,10,70
+P049,Leather Desk Pad,Accessories,40,30
+P050,Rechargeable Batteries,Electronics,50,15
+P051,Laptop Privacy Screen,Accessories,30,20
+P052,Magnetic Cable Clips,Accessories,70,5
+P053,Wireless Charging Pad,Electronics,25,25
+P054,Portable Projector Screen,Office,10,40
+P055,Desktop Storage Shelf,Furniture,15,30
+P056,Laptop Stand with Cooling,Accessories,20,35
+P057,Ergonomic Mouse Pad,Accessories,50,10
+P058,Wireless Charging Stand,Electronics,20,30
+P059,HDMI to VGA Adapter,Electronics,45,10
+P060,Bluetooth Headset,Electronics,25,40
+P061,Adjustable Phone Stand,Accessories,50,12
+P062,Mini Desk Fan,Home,40,15
+P063,Digital Notepad,Office,20,60
+P064,Laptop Sleeve,Accessories,40,20
+P065,Portable Monitor,Electronics,15,100
+P066,Keyboard Wrist Rest,Accessories,30,10
+P067,Laptop Riser,Accessories,25,25
+P068,Desk Clock,Home,50,12
+P069,Adjustable Desk Shelf,Furniture,15,45
+P070,Wireless Mouse Pad Charger,Electronics,20,35
+P071,Cable Organizer Box,Accessories,50,18
+P072,Wireless Home Speaker,Electronics,10,80
+P073,Compact Printer,Electronics,10,90
+P074,Webcam Cover,Accessories,60,5
+P075,Portable Scanner,Electronics,15,85
+P076,Office Desk Mat,Accessories,30,25
+P077,File Organizer Rack,Office,40,20
+P078,Smart Pen,Electronics,15,50
+P079,Compact Air Purifier,Home,25,40
+P080,Bluetooth Speaker Stand,Electronics,20,30
+P081,Multi-Port USB Charger,Electronics,40,25
+P082,Screen Magnifier,Accessories,25,18
+P083,White Noise Machine,Home,30,20
+P084,Smart Desk Light,Home,20,35
+P085,Rechargeable Hand Warmer,Accessories,30,12
+P086,Posture Corrector Chair,Furniture,15,60
+P087,Laptop Power Bank,Electronics,20,55
+P088,Headphone Stand,Accessories,50,10
+P089,Office Desk Mirror,Accessories,30,8
+P090,USB Desktop Fan,Home,40,15
+P091,Cooling Fan Stand,Accessories,25,20
+P092,Portable Desk Heater,Home,20,30
+P093,Portable SSD (512GB),Electronics,15,100
+P094,Ergonomic Foot Cushion,Furniture,30,20
+P095,Wireless Headphone Stand,Accessories,25,25
+P096,Digital Picture Frame,Electronics,20,70
+P097,Compact Coffee Maker,Home,15,40
+P098,Adjustable Monitor Stand,Furniture,20,30
+P099,Desk Pen Holder,Accessories,50,5
+P100,Laptop Case,Accessories,35,25
+C101,Roman Barnes,romanb@example.com,123-456-7990,2024-12-20
+C102,Alice Patterson,alicep@example.com,123-456-7991,2024-12-25
+C103,Finley Thomas,finley@example.com,123-456-7992,2024-12-30
+C104,Sienna Walker,sienna@example.com,123-456-7993,2025-01-01
+C105,Logan Campbell,loganc@example.com,123-456-7994,2025-01-05
+C106,Victoria Bailey,victoria@example.com,123-456-7995,2025-01-10
+C107,Max Gonzales,max@example.com,123-456-7996,2025-01-15
